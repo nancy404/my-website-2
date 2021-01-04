@@ -1,0 +1,32 @@
+body{
+  background-color: #d1f5d3;
+  text-align:center;
+  margin: 100px;
+  font-family: sans-serif;
+}
+h1{
+  color: #9DC6A7;
+  font-size: 5.62rem;
+  font-family:sans-serif;
+  margin: auto;
+}
+h3{
+  color:#9DC6A7;
+}
+h2{
+  color:#9DC6A7
+}
+p{
+  color: #9DC6A7;
+  line-height: 2;
+}
+.top-container{
+  height:500px;
+}
+.middle-container{
+  text-align: left;
+}
+.top{
+  float: left;
+  width:20%;
+}
